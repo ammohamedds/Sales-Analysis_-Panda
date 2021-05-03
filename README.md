@@ -10,4 +10,6 @@ What time should we display advertisemens to maximize the likelihood of customer
 
 What products are most usual sold together?
 
-What product sold the most? Why do you think it sold the most? and others, using pandas, and matplotlib.
+What product sold the most? Why do you think it sold the most? and others, 
+
+I used pandas, and matplotlib.
